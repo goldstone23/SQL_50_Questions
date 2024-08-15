@@ -1,2 +1,29 @@
-# SQL_50_Questions
-This repository contains solutions to 50 carefully selected LeetCode SQL problems. Covering a wide range of SQL concepts and difficulty levels, this collection aims to enhance your SQL skills and prepare you for technical interviews.
+LeetCode SQL 50 Solutions
+Welcome to the LeetCode SQL 50 Solutions repository!
+
+This repository provides solutions to the LeetCode SQL 50 study plan. The goal is to help you master SQL concepts and prepare for SQL-related interviews.
+
+Repository Structure
+.
+├── README.md
+├── sql_solutions
+│   ├── easy
+│   │   ├── problem_1.sql
+│   │   ├── ...
+│   ├── medium
+│   │   ├── problem_1.sql
+│   │   ├── ...
+│   └── hard
+│       ├── problem_1.sql
+│       ├── ...
+sql_solutions: Contains SQL solutions organized by difficulty level (easy, medium, hard).
+problem_x.sql: Contains the SQL solution for the corresponding LeetCode problem.
+How to Use
+Clone the repository:
+Bash
+git clone https://github.com/your-username/leetcode-sql-50.git
+Use code with caution.
+
+Explore solutions: Browse through the solutions to understand different SQL concepts and problem-solving approaches.
+Practice: Try solving the problems yourself before looking at the solutions.
+Contribute: Feel free to contribute by improving existing solutions, adding new solutions, or providing feedback.
